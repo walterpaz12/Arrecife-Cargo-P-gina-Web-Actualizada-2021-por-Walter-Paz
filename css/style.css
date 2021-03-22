@@ -692,7 +692,7 @@ text-align: right
 
 #yellow:hover{
 	
-	color: white;
+	color: var(--color-azul-arrecife-cargo-principal);
 	background-color:  var(--color-amarillo-arrecife-cargo);
 	transition: all 0.2 ease-in;
 	padding: 10px;
